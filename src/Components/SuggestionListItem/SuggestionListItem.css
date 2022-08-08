@@ -1,0 +1,55 @@
+.suggestion-list-item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: default;
+  padding: 5px 15px;
+}
+
+.suggestion-list-item-container-active {
+  background: #eee;
+}
+
+.suggestion-list-item-searchtext-container {
+  display: flex;
+  align-items: center;
+}
+
+.suggestion-list-item-history-icon {
+  background: url(/assets/searchboxicon.webp) no-repeat 0 -21px;
+  background-size: 20px;
+  min-height: 20px;
+  min-width: 20px;
+  height: 20px;
+  width: 20px;
+}
+
+.suggestion-list-item-search-icon {
+  background: url(/assets/searchboxicon.webp) no-repeat 0 0;
+  background-size: 20px;
+  min-height: 20px;
+  min-width: 20px;
+  height: 20px;
+  width: 20px;
+}
+
+.suggestion-list-item-text {
+  margin-left: 20px;
+  color: black;
+}
+
+.suggestion-list-item-text-searched {
+  margin-left: 20px;
+  color: purple;
+}
+
+.suggestion-list-item-remove-history {
+  color: #80868b;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.suggestion-list-item-remove-history:hover {
+  color: #1a73e8;
+  text-decoration: underline;
+}

@@ -1,0 +1,28 @@
+
+.website-item-container {
+    margin: 40px 0px;
+}
+
+.website-item-link-container {
+  text-decoration: none;
+  color: #1a0dab;
+}
+
+.website-item-link-title {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.website-item-link-title:hover {
+    text-decoration: underline;
+}
+
+.website-item-link-text {
+    color: #202124;
+    font-size: 14px;
+}
+
+.website-item-description-text {
+  color: #4d5156;
+  font-size: 14px;
+}

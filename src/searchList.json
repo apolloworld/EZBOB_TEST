@@ -1,0 +1,194 @@
+[
+    {
+        "id": 0,
+        "title": "React – A JavaScript library for building user interfaces",
+        "description": "React · Declarative. React makes it painless to create interactive UIs. · Component-Based. Build encapsulated components that manage their own state, then compose ...",
+        "link": "https://reactjs.org"
+    },
+    {
+        "id": 1,
+        "title": "React is a JavaScript library for building user interfaces. - GitHub",
+        "description": "React is a JavaScript library for building user interfaces. Declarative: React makes it painless to create interactive UIs. Design simple views for each state ...",
+        "link": "https://github.com/facebook/react"
+    },
+    {
+        "id": 2,
+        "title": "React Native · Learn once, write anywhere",
+        "description": "Create native apps for Android and iOS using React. React Native combines the best parts of native development with React, a best-in-class JavaScript library ...",
+        "link": "https://reactnative.dev/"
+    },
+    {
+        "id": 3,
+        "title": "React Tutorial - W3Schools",
+        "description": "React is a JavaScript library for building user interfaces. React is used to build single-page applications. React allows us to create reusable UI ...",
+        "link": "https://www.w3schools.com/REACT/DEFAULT.ASP"
+    },
+    {
+        "id": 4,
+        "title": "React (JavaScript library) - Wikipedia",
+        "description": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components.",
+        "link": "https://en.wikipedia.org/wiki/React_(JavaScript_library)"
+    },
+    {
+        "id": 5,
+        "title": "React-Bootstrap · React-Bootstrap Documentation",
+        "description": "The most popular front-end framework, rebuilt for React.",
+        "link": "https://react-bootstrap.github.io/"
+    },
+    {
+        "id": 6,
+        "title": "React - npm",
+        "description": "React is a JavaScript library for building user interfaces.. Latest version: 18.2.0, last published: 2 months ago. Start using react in your ...",
+        "link": "https://www.npmjs.com/package/react"
+    },
+    {
+        "id": 7,
+        "title": "REACT Children's Charity - Giving Depth to Short Lives",
+        "description": "React – Rapid Effective Assistance for Children with potentially Terminal illness is a dynamic charity working to improve the quality of life for children ...",
+        "link": "https://reactcharity.org/"
+    },
+    {
+        "id": 8,
+        "title": "MUI: The React component library you always wanted",
+        "description": "",
+        "link": "https://mui.com/zh/"
+    },
+    {
+        "id": 9,
+        "title": "React | Font Awesome Docs",
+        "description": "Font Awesome now has an official React component that's available for a ... are okay with using SVG + JS to render icons in your project - this react ...",
+        "link": "https://fontawesome.com/v5/docs/web/use-with/react"
+    },
+    {
+        "id": 10,
+        "title": "React Router: Declarative routing for React apps at any scale",
+        "description": "Version 6 of React Router is here! React Router v6 takes the best features from v3, v5, and its sister project, Reach Router, in our smallest and most ...",
+        "link": "https://reactnavigation.org/"
+    },
+    {
+        "id": 11,
+        "title": "React Navigation | React Navigation",
+        "description": "https://reactnavigation.org/",
+        "link": "Routing and navigation for your React Native apps."
+    },
+    {
+        "id": 12,
+        "title": "The Complete Course (incl. React Router 4 & Redux) - Udemy",
+        "description": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
+        "link": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/"
+    },
+    {
+        "id": 13,
+        "title": "Semantic UI React: Introduction",
+        "description": "jQuery Free. jQuery is a DOM manipulation library. It reads from and writes to the DOM. React uses a virtual DOM (a JavaScript representation of the real ...",
+        "link": "https://react.semantic-ui.com/"
+    },
+    {
+        "id": 14,
+        "title": "React Redux | React Redux",
+        "description": "Official React bindings for Redux.",
+        "link": "https://react-redux.js.org/"
+    },
+    {
+        "id": 15,
+        "title": "Learn React | Codecademy",
+        "description": "You'll be able to combine these ideas in React's modular programming style. Note on Prerequisites: A strong foundation in JavaScript is a prerequisite for this ...",
+        "link": "https://www.codecademy.com/learn/react-101"
+    },
+    {
+        "id": 16,
+        "title": "Create React App",
+        "description": "Create React App · Less to Learn. You don't need to learn and configure many build tools. Instant reloads help you focus on development. · Only One Dependency.",
+        "link": "https://create-react-app.dev/"
+    },
+    {
+        "id": 17,
+        "title": "React - The Anti-Counterfeiting Network",
+        "description": "React is a not-for-profit organization with over 30 years experience and has in excess of 315 business Members covering all sectors of industry.",
+        "link": "https://www.react.org/"
+    },
+    {
+        "id": 18,
+        "title": "Getting started with React - Learn web development | MDN",
+        "description": "As its official tagline states, React is a library for building user interfaces. React is not a framework – it's not even exclusive to the web.",
+        "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started"
+    },
+    {
+        "id": 19,
+        "title": "Create React App",
+        "description": "Create React App · Less to Learn. You don't need to learn and configure many build tools. Instant reloads help you focus on development. · Only One Dependency.",
+        "link": "https://create-react-app.dev/"
+    },
+    {
+        "id": 20,
+        "title": "ReAct: Home",
+        "description": "ReAct is an independent network dedicated to the problem of antibiotic resistance. ReAct is a global catalyst, advocating and stimulating for global engagement ...",
+        "link": "https://www.reactgroup.org/"
+    },
+    {
+        "id": 21,
+        "title": "React Query, Solid Query, Svelte Query, Vue Query - TanStack",
+        "description": "Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.",
+        "link": "https://tanstack.com/query/v3/"
+    },
+    {
+        "id": 22,
+        "title": "React Developer Tools",
+        "description": "React Developer Tools is a Chrome DevTools extension for the open-source React JavaScript library. It allows you to inspect the React component hierarchies ...",
+        "link": "https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi"
+    },
+    {
+        "id": 23,
+        "title": "The Best Guide to Know What Is React - Simplilearn",
+        "description": "React is a JavaScript-based UI development library. Facebook and an open-source developer community run it. Although React is a library ...",
+        "link": "https://www.simplilearn.com/tutorials/reactjs-tutorial/what-is-reactjs"
+    },
+    {
+        "id": 24,
+        "title": "React - web.dev",
+        "description": "Build performant and progressive React applications. Collection cover image. Overview. In this section you'll learn how to use built-in ...",
+        "link": "https://web.dev/react/"
+    },
+    {
+        "id": 25,
+        "title": "React Tutorial: An Overview and Walkthrough - Tania Rascia",
+        "description": "React is a JavaScript library - one of the most popular ones, with over 100,000 stars on GitHub. · React is not a framework (unlike Angular, ...",
+        "link": "https://www.taniarascia.com/getting-started-with-react/"
+    },
+    {
+        "id": 26,
+        "title": "React.js cheatsheet - Devhints",
+        "description": "React.Component · render() · componentDidMount() · props/state · dangerouslySetInnerHTML · React is a JavaScript library for building user interfaces.",
+        "link": "https://devhints.io/react"
+    },
+    {
+        "id": 27,
+        "title": "React Definition & Meaning - Merriam-Webster",
+        "description": "Definition of react · 1 : to exert a reciprocal or counteracting force or influence —often used with on or upon · 2 : to change in response to a stimulus · 3 : to ...",
+        "link": "https://www.merriam-webster.com/dictionary/react"
+    },
+    {
+        "id": 28,
+        "title": "How To Code in React.js | DigitalOcean",
+        "description": "React is a popular JavaScript framework for creating front-end applications, such as user interfaces that allow users to interact with programs.",
+        "link": "https://www.digitalocean.com/community/tutorial_series/how-to-code-in-react-js"
+    },
+    {
+        "id": 29,
+        "title": "Next.js by Vercel - The React Framework",
+        "description": "Production grade React applications that scale. The world's leading companies use Next.js by Vercel to build static and dynamic websites and web ...",
+        "link": "https://nextjs.org/"
+    },
+    {
+        "id": 30,
+        "title": "React | Meta Open Source",
+        "description": "React is a JavaScript library for building user interfaces. React is: Declarative: React makes it painless to create interactive UIs.",
+        "link": "https://opensource.fb.com/projects/react/"
+    },
+    {
+        "id": 31,
+        "title": "The Complete React UI Components Library - Syncfusion",
+        "description": "The Syncfusion React UI components library offers more than 70 cross-platform, responsive, and lightweight components for building modern web applications.",
+        "link": "https://www.syncfusion.com/react-ui-components"
+    }
+]
